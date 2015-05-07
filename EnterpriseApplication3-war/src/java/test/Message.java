@@ -18,7 +18,7 @@ import javax.faces.bean.RequestScoped;
 public class Message {
     
     
-    private String message="Hello World";
+    private String message="Hello World world";
     private String name="Fast and Furious";
     private String movie="Disney monkey kingdom";
 
